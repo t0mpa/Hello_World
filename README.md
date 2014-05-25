@@ -1,11 +1,14 @@
-## Hello World
+# Hello World
 This is a test repository.
 
 Updated README file with Safari.
 
-# A header
+## Heading 2
 
 * This
 * is
 * a
 * list?
+
+### Heading 3
+Small text
