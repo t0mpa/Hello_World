@@ -12,3 +12,5 @@ Updated README file with Safari.
 
 ### Heading 3
 Small text
+
+[My link to GitHub](http://github.com)
